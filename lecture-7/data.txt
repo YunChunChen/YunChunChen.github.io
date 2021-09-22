@@ -1,6 +1,0 @@
-This is a book.
-That is a pencil.
-I am happy.
-1 + 1 = 2
-a b c
-Today is Weekend.
